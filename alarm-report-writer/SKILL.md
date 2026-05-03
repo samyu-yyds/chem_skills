@@ -1,5 +1,5 @@
 ---
-name: EnterpriseAlarmRiskAnalysisReport
+name: 化工企业报警分析报告技能
 description: 自动编排报警数据获取、高风险判定、数据统计和专业分析，生成符合监管要求的企业月度报警分析报告（Word文档）。
 ---
 
